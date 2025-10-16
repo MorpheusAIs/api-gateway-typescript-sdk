@@ -42,15 +42,15 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:MorpheusAIs/api-gateway-typescripts-sdk.git
+$ npm install git+ssh://git@github.com:MorpheusAIs/api-gateway-typescript-sdk.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/MorpheusAIs/api-gateway-typescripts-sdk
-$ cd api-gateway-typescripts-sdk
+$ git clone https://www.github.com/MorpheusAIs/api-gateway-typescript-sdk
+$ cd api-gateway-typescript-sdk
 
 # With yarn
 $ yarn link
