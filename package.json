@@ -1,6 +1,6 @@
 {
   "name": "morpheus-api-gateway-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Morpheus API Gateway SDK API",
   "author": "Morpheus API Gateway SDK <>",
   "types": "dist/index.d.ts",
